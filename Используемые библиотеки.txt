@@ -1,0 +1,5 @@
+Библиотеки, которые применяются в скрипте.
+
+BeautifulSoup
+requests
+time
